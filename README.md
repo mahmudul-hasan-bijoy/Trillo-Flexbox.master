@@ -1,6 +1,6 @@
 <img src="assets/img/screenshot.png" title="Trillo">
 
-# <a href="https://mahmudul-hasan-bijoy.github.io/training_studio/" target="_blank">Trillo | Master CSS Flexbox</a>
+# <a href="https://mahmudul-hasan-bijoy.github.io/Trillo-Flexbox.master/" target="_blank">Trillo | Master CSS Flexbox</a>
   - Onepage Website
   - Advanced Flexbox Tech
   - HTML5
